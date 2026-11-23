@@ -1,2 +1,2 @@
-goserver-Docker-Docker
-
+# Compiled server binary (build with: go build -o goserver-Docker)
+goserver-Docker
